@@ -2,7 +2,7 @@
 
 📬 **Contact Me**
 - **Telegram**: [t.me/Atheonn](https://t.me/Atheonn)
-- **Discord**: (@ateon)
+- **Discord**: @ateon
 - **GitHub**: [github.com/YourGitHub](https://github.com/YourGitHub)
 
 🌐 **Life Snapshot**
