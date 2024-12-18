@@ -4,6 +4,7 @@
 - **Discord**: @ateon
 - **Telegram**: [t.me/Atheonn](https://t.me/Atheonn)
 - **GitHub**: [github.com/atheonn](https://github.com/atheonn)
+- **NameMC**: [namemc.com/profile/qAtheon.1](https://namemc.com/profile/qAtheon)
 
 🌐 **Life Snapshot**
 - **Languages Spoken**:
