@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Atheon!
 
 📬 **Contact Me**
-- **Telegram**: [t.me/Atheonn](https://t.me/Atheonn)
 - **Discord**: @ateon
-- **GitHub**: [github.com/YourGitHub](https://github.com/YourGitHub)
+- **Telegram**: [t.me/Atheonn](https://t.me/Atheonn)
+- **GitHub**: [github.com/atheonn](https://github.com/atheonn)
 
 🌐 **Life Snapshot**
 - **Languages Spoken**:
-  - Turkish
-  - English
-- **Age**: [Your Age]
+  - Turkish (Native)
+  - English (Intermediate)
+- **Age**: 16
 
 💻 **Coding Expertise**
 - **Languages**:
@@ -19,43 +19,34 @@
   - **Intermediate**:
     - Python
     - HTML & CSS
-  - **Learning**:
-    - Kotlin
-    - Rust
 
 🛠️ **Specialties**
 - Minecraft Plugin Development (Spigot, Paper)
-- Minecraft Modding (Forge, Fabric)
-- Backend Development
-- Game Development
+- Minecraft Modding (Forge)
 
 🖥️ **My Setup**
 - **PC Build**:
-  - **Processor**: Intel i9-13900K | 24 cores, 32 threads
-  - **RAM**: 64GB DDR5
-  - **GPU**: NVIDIA RTX 3080 | 10GB GDDR6X
-  - **Storage**: 1TB NVMe SSD (OS) + 2TB NVMe SSD (Storage)
-  - **Cooling**: Liquid cooling
-  - **Monitor**: 2x 1440p Monitors
+  - **Processor**: Intel i5-12400F | 6 cores, 12 threads
+  - **RAM**: 16GB DDR4
+  - **GPU**: NVIDIA RTX 4060 | 8GB GDDR6
+  - **Storage**: 500GB NVMe SSD (OS) + 120GB SATA SSD (Storage)
+  - **Cooling**: Air Cooling
+  - **Monitor**: 1x Monitor 1080P | 200Hz
 
 🔧 **Development Environment**
 - **IDE**:
   - IntelliJ IDEA (for Java)
   - Visual Studio Code
 - **Operating Systems**:
-  - Linux: Ubuntu 22.04 LTS
   - Windows 11
-  - macOS: macOS Ventura on MacBook Pro M2 Max | 12 cores, 32GB RAM, 38-core GPU
+- **Java Version**:
+  - Java 16+
 
 🚀 **Projects**
 - **Future projects**:
-  - Minecraft Modding Framework (for Minecraft 1.20+)
-  - Minecraft Minigames Plugin Suite
-  - Custom Minecraft Server Management Dashboard
+  - Minecraft Skyblock/Survival Plugins (for Minecraft 1.20+)
+  - Minecraft Ready Server Package
+  - Custom Minecraft Launcher
 - **Currently working on**:
   - Advanced Minecraft Plugin for Spigot/Paper
-  - Minecraft Bedrock Edition Modding (Working on a new feature)
   - Open Source Minecraft Plugin Repository (Check out my repos!)
-  
-🔗 **Check out my repositories to see what I'm working on!**
-- [GitHub Repositories](https://github.com/YourGitHub)
