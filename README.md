@@ -10,16 +10,7 @@
 - **Languages Spoken**:
   - Turkish (Native)
   - English (Intermediate)
-- **Age**: 16
-
-💻 **Coding Expertise**
-- **Languages**:
-  - **Expert**:
-    - Java (Minecraft mod/plugin development)
-    - JavaScript
-  - **Intermediate**:
-    - Python
-    - HTML & CSS
+- **Age**: 17
 
 🛠️ **Specialties**
 - Minecraft Plugin Development (Spigot, Paper)
@@ -50,4 +41,3 @@
   - Custom Minecraft Launcher
 - **Currently working on**:
   - Advanced Minecraft Plugin for Spigot/Paper
-  - Open Source Minecraft Plugin Repository (Check out my repos!)
