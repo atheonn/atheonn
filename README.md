@@ -3,18 +3,12 @@
 📬 **Contact Me**
 - **Discord**: @ateon
 - **Telegram**: [t.me/Atheonn](https://t.me/Atheonn)
-- **GitHub**: [github.com/atheonn](https://github.com/atheonn)
-- **NameMC**: [namemc.com/profile/qAtheon.1](https://namemc.com/profile/qAtheon)
 
 🌐 **Life Snapshot**
 - **Languages Spoken**:
   - Turkish (Native)
   - English (Intermediate)
 - **Age**: 17
-
-🛠️ **Specialties**
-- Minecraft Plugin Development (Spigot, Paper)
-- Minecraft Modding (Forge)
 
 🖥️ **My Setup**
 - **PC Build**:
@@ -33,11 +27,3 @@
   - Windows 11
 - **Java Version**:
   - Java 16+
-
-🚀 **Projects**
-- **Future projects**:
-  - Minecraft Skyblock/Survival Plugins (for Minecraft 1.20+)
-  - Minecraft Ready Server Package
-  - Custom Minecraft Launcher
-- **Currently working on**:
-  - Advanced Minecraft Plugin for Spigot/Paper
